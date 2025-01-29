@@ -7,7 +7,7 @@ output_file="cohort_1"
 
 > "$output_file"
 
-names=("Peter Udochukwu Opara-(Group Leader)" "Nkem Vincent Nweke" "Paul Masamvu" "Delphin Ruyumbu Cyusa" "Kevin Nyawakira" "King Obafemi Abejirin")
+names=("Peter Udochukwu Opara-(Group Leader)" "Nkem Vincent Nweke" "Paul Masamvu" "Delphin Ruyumbu Cyusa" "Dominion Yusuf" "Kevin Nyawakira" "King Obafemi Abejirin")
 
 for name in "${names[@]}"
 do
