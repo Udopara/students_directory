@@ -17,3 +17,7 @@ done
 echo "Names have been written to $output_file"
 
 echo "This is the updated script!!"
+
+echo Paul Masamvu >> cohort_2
+echo Dominion Yusuf >> cohort_2
+echo Nkem Vincent Nweke >> cohort_2
