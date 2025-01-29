@@ -16,4 +16,4 @@ done
 
 echo "Names have been written to $output_file"
 
-echo "This is the updated script!"
+echo "This is the updated script!!"
